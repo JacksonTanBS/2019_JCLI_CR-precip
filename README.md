@@ -4,5 +4,5 @@ The code `composite.hhr.py` composites IMERG precipitation data with MODIS CRs f
 
 These codes have been tested with Python 3.6.5 on Ubuntu 16.04.4.
 
-Jackson Tan
+Jackson Tan  
 29 Jan 2019
